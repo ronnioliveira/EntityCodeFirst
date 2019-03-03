@@ -1,0 +1,7 @@
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Entity\bin\Debug\CodeFirst.Entity.dll.config
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Entity\bin\Debug\CodeFirst.Entity.dll
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Entity\bin\Debug\CodeFirst.Entity.pdb
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Entity\obj\Debug\CodeFirst.Entity.csprojAssemblyReference.cache
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Entity\obj\Debug\CodeFirst.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Entity\obj\Debug\CodeFirst.Entity.dll
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Entity\obj\Debug\CodeFirst.Entity.pdb

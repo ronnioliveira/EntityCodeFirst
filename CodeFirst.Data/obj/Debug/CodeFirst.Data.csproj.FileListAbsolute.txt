@@ -1,0 +1,17 @@
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Data.dll.config
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Data.dll
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Data.pdb
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Entity.dll
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Entity.pdb
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\bin\Debug\CodeFirst.Entity.dll.config
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.csprojAssemblyReference.cache
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.csproj.CopyComplete
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.dll
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.pdb
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.Migrations.CreateTablesCarAndStore.resources
+C:\Users\Ronni\source\repos\EntityCodeFirst\CodeFirst.Data\obj\Debug\CodeFirst.Data.csproj.GenerateResource.cache
